@@ -1,16 +1,6 @@
 # python-init-template
-python init template
+QT UI
 
-## Setup
+## Preparies
 
-1. Add executable permisssion for `start.sh`, `install.sh`
-   - `chmod a+x start.sh`
-   - `chmod a+x install.sh`
-2. To execute `./start --args` or `./start.sh --args`
-   - `./start.sh --entity AU --env sit`
-   - `./start --entity AU --env sit`
-
-## Deployment + execution
-You need to execute two commands after a new deployment
-1. install depenencies
-2. execute script
+- No need to install QT software, just make sure that you installed `Anaconda`. And open `<<your Anaconda installation path>>/anaconda3/bin/Designer.app`
